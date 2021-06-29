@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - fallCollider
+  - ball
+  - brick
+  - floor
+  - leftWall
+  - rightWall
+  - pillow
+  - garbage
+  - arcade
+  - S1L
+  - HR
+  - S1R
+  - S2L
+  - S2R
+  - S3L
+  - S3R
+  - S4L
+  - S4R
+  - ARSL
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 210601973
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Components
+    uniqueID: 2316111499
+    locked: 0
+  - name: UI
+    uniqueID: 922690263
+    locked: 0
